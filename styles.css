@@ -75,6 +75,12 @@
     list-style: none;
     text-align: center;
 }
+.login{
+    align-items: center;
+    list-style: none;
+    text-align: center;
+    visibility: hidden;
+}
 .navbar__item{
     height: 80px;
 }
