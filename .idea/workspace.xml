@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4ff5888-30f8-4596-a27a-31aa4accd0a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/~$va alkalmazások-gyakorlat-Beadandó.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/~$va_Beadandó_Feladat_Fejlesztői_dokumentáció.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Beadandó_Feladat_Fejlesztői_dokumentáció.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Beadandó_Feladat_Fejlesztői_dokumentáció.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$va alkalmazások-gyakorlat-Beadandó.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/csern/OneDrive/Dokumentumok/GitHub/Java_beadando_feladat_GY/demo",
+    "last_opened_file_path": "C:/Users/csern/OneDrive/Asztali gép/szeleromu",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -115,7 +113,7 @@
       <workItem from="1670352281046" duration="219000" />
       <workItem from="1670352515754" duration="605000" />
       <workItem from="1670401253936" duration="189000" />
-      <workItem from="1670403975512" duration="1106000" />
+      <workItem from="1670403975512" duration="2558000" />
     </task>
     <servers />
   </component>
